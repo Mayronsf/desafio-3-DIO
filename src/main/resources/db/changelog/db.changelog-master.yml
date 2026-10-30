@@ -1,0 +1,9 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/migrations/db.changelog-202510301800.sql
+  - include:
+      file: db/changelog/migrations/db.changelog-202510301810.sql
+  - include:
+      file: db/changelog/migrations/db.changelog-202510301820.sql
+  - include:
+      file: db/changelog/migrations/db.changelog-202510301830.sql
